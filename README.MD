@@ -177,7 +177,7 @@ Note: When using the installed command, `config.env` must live next to `/usr/loc
 ## 🧑‍💻 Contributing
 
 ```bash
-git clone https://github.com/aqrab/openit.git
+git clone https://github.com/un-earthly/openit.git
 git checkout -b feature/my-feature
 # make your edits
 git commit -m "Add my feature"
@@ -190,7 +190,7 @@ Then open a PR on GitHub.
 
 ## 🪪 License
 
-MIT License © 2025 [aqrab](https://github.com/aqrab)
+MIT License © 2025 [un-earthly](https://github.com/un-earthly)
 
 ---
 
